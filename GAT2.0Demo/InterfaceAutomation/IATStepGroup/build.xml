@@ -4,7 +4,7 @@
 <property name="src.dir" value="${basedir}\\src"/>
 <property name="build.dir" value="${basedir}\\build"/>
 <property name="dest.dir" value="${basedir}\\dest"/>
-<property name="lib.dir" value="D:\EclipseWorkSpace\GAT2.0\GAT2.0\Libs"/>
+<property name="lib.dir" value="C:\\Users\\Devuser.Devuser-PC\\GAT2.0\\GAT2.0Demo\\Libs"/>
 <property name="testng.output.dir" value="${basedir}\\test-output"/>
 <property name="testng.file" value="testng.xml"/>
 
