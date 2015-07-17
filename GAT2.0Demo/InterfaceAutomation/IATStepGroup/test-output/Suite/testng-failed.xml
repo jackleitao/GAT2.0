@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterClassMethod"/>
+          <include name="afterMethod"/>
+          <include name="RegisterGameUser_success"/>
+          <include name="beforeTestMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.RegisterwithInviteCodeTestCase -->
+      <class name="com.gateside.autotesting.generation.unittest.BigEyesVideo_GetCommentList">
+        <methods>
+          <include name="TestRequiredParametersNull"/>
+          <include name="TestWindows"/>
+          <include name="TestRequiredParametersEmpty"/>
+          <include name="TestOsVersion71"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="TestOsVersion60"/>
+          <include name="TestOsVersion61"/>
+          <include name="TestAndroidParametersLegal"/>
+          <include name="beforeTestMethod"/>
+          <include name="afterClassMethod"/>
+        </methods>
+      </class> <!-- com.gateside.autotesting.generation.unittest.BigEyesVideo_GetCommentList -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
